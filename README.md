@@ -15,22 +15,22 @@ In addition, the [code/](code/) subdirectories also contain .py script files, wh
 **Please note that these are just the code examples accompanying the book, which I uploaded for your convenience; be aware that these notebooks may not be useful without the formulae and descriptive text.**   
 
 
-1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](./Chapter 01)] [[ipynb](./Chapter 01/ch01.ipynb)] 
-2. Training Machine Learning Algorithms for Classification [[open dir](./Chapter 02)] [[ipynb](./Chapter 02/ch02.ipynb)] 
-3. A Tour of Machine Learning Classifiers Using Scikit-Learn [[open dir](./Chapter 03)] [[ipynb](./Chapter 03/ch03.ipynb)] 
-4. Building Good Training Sets – Data Pre-Processing [[open dir](./Chapter 04)] [[ipynb](./Chapter 04/ch04.ipynb)] 
-5. Compressing Data via Dimensionality Reduction [[open dir](./Chapter 05)] [[ipynb](./Chapter 05/ch05.ipynb)] 
-6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization [[open dir](./Chapter 06)] [[ipynb](./Chapter 06/ch06.ipynb)]
-7. Combining Different Models for Ensemble Learning [[open dir](./Chapter 07)] [[ipynb](./Chapter 07/ch07.ipynb)]
-8. Applying Machine Learning to Sentiment Analysis [[open dir](./Chapter 08)] [[ipynb](./Chapter 08/ch08.ipynb)] 
-9. Embedding a Machine Learning Model into a Web Application [[open dir](./Chapter 09)] [[ipynb](./Chapter 09/ch09.ipynb)] 
-10. Predicting Continuous Target Variables with Regression Analysis [[open dir](./Chapter 10)] [[ipynb](./Chapter 10/ch10.ipynb)] 
-11. Working with Unlabeled Data – Clustering Analysis [[open dir](./Chapter 11)] [[ipynb](./Chapter 11/ch11.ipynb)] 
-12. Implementing a Multi-layer Artificial Neural Network from Scratch [[open dir](./Chapter 12)] [[ipynb](./Chapter 12/ch12.ipynb)] 
-13. Parallelizing Neural Network Training with TensorFlow [[open dir](./Chapter 13)] [[ipynb](./Chapter 13/ch13.ipynb)] 
-14. Going Deeper: The Mechanics of TensorFlow [[open dir](./Chapter 14)] [[ipynb](./Chapter 14/ch14.ipynb)] 
-15. Classifying Images with Deep Convolutional Neural Networks [[open dir](./Chapter 15)] [[ipynb](./Chapter 15/ch15.ipynb)] 
-16. Modeling Sequential Data Using Recurrent Neural Networks [[open dir](./Chapter 16)] [[ipynb](./Chapter 16/ch16.ipynb)] 
+1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](./Chapter_01)] [[ipynb](./Chapter_01/ch01.ipynb)] 
+2. Training Machine Learning Algorithms for Classification [[open dir](./Chapter_02)] [[ipynb](./Chapter_02/ch02.ipynb)] 
+3. A Tour of Machine Learning Classifiers Using Scikit-Learn [[open dir](./Chapter_03)] [[ipynb](./Chapter_03/ch03.ipynb)] 
+4. Building Good Training Sets – Data Pre-Processing [[open dir](./Chapter_04)] [[ipynb](./Chapter_04/ch04.ipynb)] 
+5. Compressing Data via Dimensionality Reduction [[open dir](./Chapter_05)] [[ipynb](./Chapter_05/ch05.ipynb)] 
+6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization [[open dir](./Chapter_06)] [[ipynb](./Chapter_06/ch06.ipynb)]
+7. Combining Different Models for Ensemble Learning [[open dir](./Chapter_07)] [[ipynb](./Chapter_07/ch07.ipynb)]
+8. Applying Machine Learning to Sentiment Analysis [[open dir](./Chapter_08)] [[ipynb](./Chapter_08/ch08.ipynb)] 
+9. Embedding a Machine Learning Model into a Web Application [[open dir](./Chapter_09)] [[ipynb](./Chapter_09/ch09.ipynb)] 
+10. Predicting Continuous Target Variables with Regression Analysis [[open dir](./Chapter_10)] [[ipynb](./Chapter_10/ch10.ipynb)] 
+11. Working with Unlabeled Data – Clustering Analysis [[open dir](./Chapter 11)] [[ipynb](./Chapter_11/ch11.ipynb)] 
+12. Implementing a Multi-layer Artificial Neural Network from Scratch [[open dir](./Chapter_12)] [[ipynb](./Chapter_12/ch12.ipynb)] 
+13. Parallelizing Neural Network Training with TensorFlow [[open dir](./Chapter_13)] [[ipynb](./Chapter_13/ch13.ipynb)] 
+14. Going Deeper: The Mechanics of TensorFlow [[open dir](./Chapter_14)] [[ipynb](./Chapter_14/ch14.ipynb)] 
+15. Classifying Images with Deep Convolutional Neural Networks [[open dir](./Chapter_15)] [[ipynb](./Chapter_15/ch15.ipynb)] 
+16. Modeling Sequential Data Using Recurrent Neural Networks [[open dir](./Chapter_16)] [[ipynb](./Chapter_16/ch16.ipynb)] 
 
 
 
