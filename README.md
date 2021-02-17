@@ -15,22 +15,22 @@ In addition, the [code/](code/) subdirectories also contain .py script files, wh
 **Please note that these are just the code examples accompanying the book, which I uploaded for your convenience; be aware that these notebooks may not be useful without the formulae and descriptive text.**   
 
 
-1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](./ch01)] [[ipynb](./ch01/ch01.ipynb)] 
-2. Training Machine Learning Algorithms for Classification [[open dir](./ch02)] [[ipynb](./ch02/ch02.ipynb)] 
-3. A Tour of Machine Learning Classifiers Using Scikit-Learn [[open dir](./ch03)] [[ipynb](./ch03/ch03.ipynb)] 
-4. Building Good Training Sets – Data Pre-Processing [[open dir](./ch04)] [[ipynb](./ch04/ch04.ipynb)] 
-5. Compressing Data via Dimensionality Reduction [[open dir](./ch05)] [[ipynb](./ch05/ch05.ipynb)] 
-6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization [[open dir](./ch06)] [[ipynb](./ch06/ch06.ipynb)]
-7. Combining Different Models for Ensemble Learning [[open dir](./ch07)] [[ipynb](./ch07/ch07.ipynb)]
-8. Applying Machine Learning to Sentiment Analysis [[open dir](./ch08)] [[ipynb](./ch08/ch08.ipynb)] 
-9. Embedding a Machine Learning Model into a Web Application [[open dir](./ch09)] [[ipynb](./ch09/ch09.ipynb)] 
-10. Predicting Continuous Target Variables with Regression Analysis [[open dir](./ch10)] [[ipynb](./ch10/ch10.ipynb)] 
-11. Working with Unlabeled Data – Clustering Analysis [[open dir](./ch11)] [[ipynb](./ch11/ch11.ipynb)] 
-12. Implementing a Multi-layer Artificial Neural Network from Scratch [[open dir](./ch12)] [[ipynb](./ch12/ch12.ipynb)] 
-13. Parallelizing Neural Network Training with TensorFlow [[open dir](./ch13)] [[ipynb](./ch13/ch13.ipynb)] 
-14. Going Deeper: The Mechanics of TensorFlow [[open dir](./ch14)] [[ipynb](./ch14/ch14.ipynb)] 
-15. Classifying Images with Deep Convolutional Neural Networks [[open dir](./ch15)] [[ipynb](./ch15/ch15.ipynb)] 
-16. Modeling Sequential Data Using Recurrent Neural Networks [[open dir](./ch16)] [[ipynb](./ch16/ch16.ipynb)] 
+1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](./Chapter 01)] [[ipynb](./Chapter 01/ch01.ipynb)] 
+2. Training Machine Learning Algorithms for Classification [[open dir](./Chapter 02)] [[ipynb](./Chapter 02/ch02.ipynb)] 
+3. A Tour of Machine Learning Classifiers Using Scikit-Learn [[open dir](./Chapter 03)] [[ipynb](./Chapter 03/ch03.ipynb)] 
+4. Building Good Training Sets – Data Pre-Processing [[open dir](./Chapter 04)] [[ipynb](./Chapter 04/ch04.ipynb)] 
+5. Compressing Data via Dimensionality Reduction [[open dir](./Chapter 05)] [[ipynb](./Chapter 05/ch05.ipynb)] 
+6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization [[open dir](./Chapter 06)] [[ipynb](./Chapter 06/ch06.ipynb)]
+7. Combining Different Models for Ensemble Learning [[open dir](./Chapter 07)] [[ipynb](./Chapter 07/ch07.ipynb)]
+8. Applying Machine Learning to Sentiment Analysis [[open dir](./Chapter 08)] [[ipynb](./Chapter 08/ch08.ipynb)] 
+9. Embedding a Machine Learning Model into a Web Application [[open dir](./Chapter 09)] [[ipynb](./Chapter 09/ch09.ipynb)] 
+10. Predicting Continuous Target Variables with Regression Analysis [[open dir](./Chapter 10)] [[ipynb](./Chapter 10/ch10.ipynb)] 
+11. Working with Unlabeled Data – Clustering Analysis [[open dir](./Chapter 11)] [[ipynb](./Chapter 11/ch11.ipynb)] 
+12. Implementing a Multi-layer Artificial Neural Network from Scratch [[open dir](./Chapter 12)] [[ipynb](./Chapter 12/ch12.ipynb)] 
+13. Parallelizing Neural Network Training with TensorFlow [[open dir](./Chapter 13)] [[ipynb](./Chapter 13/ch13.ipynb)] 
+14. Going Deeper: The Mechanics of TensorFlow [[open dir](./Chapter 14)] [[ipynb](./Chapter 14/ch14.ipynb)] 
+15. Classifying Images with Deep Convolutional Neural Networks [[open dir](./Chapter 15)] [[ipynb](./Chapter 15/ch15.ipynb)] 
+16. Modeling Sequential Data Using Recurrent Neural Networks [[open dir](./Chapter 16)] [[ipynb](./Chapter 16/ch16.ipynb)] 
 
 
 
