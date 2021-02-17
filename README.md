@@ -15,7 +15,7 @@ In addition, the [code/](code/) subdirectories also contain .py script files, wh
 **Please note that these are just the code examples accompanying the book, which I uploaded for your convenience; be aware that these notebooks may not be useful without the formulae and descriptive text.**   
 
 
-1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](./ch01)] [[ipynb](./ch01/ch01.ipynb)] 
+1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](./Capitulo01)] [[ipynb](./ch01/ch01.ipynb)] 
 2. Training Machine Learning Algorithms for Classification [[open dir](./ch02)] [[ipynb](./ch02/ch02.ipynb)] 
 3. A Tour of Machine Learning Classifiers Using Scikit-Learn [[open dir](./ch03)] [[ipynb](./ch03/ch03.ipynb)] 
 4. Building Good Training Sets – Data Pre-Processing [[open dir](./ch04)] [[ipynb](./ch04/ch04.ipynb)] 
